@@ -1,7 +1,5 @@
-@charset UTF-8;
-
 body {
-    background-color: rgb(54, 103, 154);
+    background-color: pink;
     font: normal 15pt Arial;
 
 }
@@ -19,7 +17,10 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
-    
+}
+
+select#flista {
+    width: 150px;
 }
 
 footer {
